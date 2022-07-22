@@ -76,7 +76,7 @@ $ python3 -m pytest tests/test_problem1.py
 
 ---
 
-# Entrega dos desafios 📝
+# Entrega dos desafios 👾
 
 Após clonar o repositório, desenvolva as soluções em uma _branch_ com o número do seu grupo. O número do seu grupo é dado pelo número da breakout room em que vocês estão. Exemplos:
 
