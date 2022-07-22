@@ -1,0 +1,1 @@
+from problems.problem3 import solve
