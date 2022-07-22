@@ -95,6 +95,7 @@ Ao final, faça o _push_ com as alterações
 <br>
 
 <details>
+<br>
 <summary><strong>Problema 1 - Professor Chateado</strong></summary>
 
 Um professor universitário está chateado com o atraso das pessoas estudantes de sua aula. Decidiu então adotar a estratégia de não passar dever de casa, condicionado a que o número de pessoas atrasadas seja menor que um valor limite (k), estipulado por ele mesmo para cada diferente tema na aula. Para registrar a frequência das pessoas estudantes, registra em um array (a) a quantidade de minutos que as pessoas chegam antes(-) ou depois(+) dele.  
@@ -123,6 +124,7 @@ Como o valor limite espitulado foi 3 e só duas pessoas se atrasaram, o professo
 <br>
 
 <details>
+<br>
 <summary><strong>Problema 2 - Pares de meias</strong></summary>
 
 As meias de uma enorme pilha de meias devem ser organizadas em pares de acordo com sua cor. Dado um array com números inteiros que representam meias e suas respectivas cores. 
@@ -150,6 +152,7 @@ ar = [10, 20, 20, 10, 10, 30, 50, 10, 20]
 <br>
 
 <details>
+<br>
 <summary><strong>Problema 3 - Dia da pessoa desenvolvedora</strong></summary>
 
 O dia da pessoa desenvolvedora é sempre o 256º dia do ano, contudo, sabemos que alguns anos são bissextos, isto é, há o dia 29 de fevereiro.
