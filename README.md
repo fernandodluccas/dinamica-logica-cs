@@ -57,13 +57,13 @@ $ npm install
 Para executar todos os testes
 
 ```bash
-$ npm run test
+$ npm test
 ```
 
 Para executar os testes relacionados a apenas um dos problemas (_para o problema 1, por exemplo_)
 
 ```bash
-$ npm run test problem1
+$ npm test problem1
 ```
 </details>
 
