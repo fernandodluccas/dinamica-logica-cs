@@ -1,0 +1,29 @@
+{
+  "name": "dinamica-coletiva-logica",
+  "version": "1.0.0",
+  "description": "Durante este momento será realizada uma dinâmica envolvendo problemas lógicos, que devem ser solucionados em grupos durante o tempo de 30 minutos. O time de pessoas da Trybe avaliará as pessoas participantes durante a dinâmica e também depois, quando cada um dos grupos apresentarem seus avanços. Os seguintes critérios serão utilizados para avaliação:",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "rootDir": "./tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipmartins/dinamica-coletiva-logica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipmartins/dinamica-coletiva-logica/issues"
+  },
+  "homepage": "https://github.com/felipmartins/dinamica-coletiva-logica#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
