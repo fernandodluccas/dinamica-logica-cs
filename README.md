@@ -27,10 +27,44 @@ Durante este momento será realizada uma dinâmica envolvendo problemas lógicos
 
 Todos os desafios podem ser feitos resolvidos ou em javascript ou em python e será considerado um diferencial ter a solução em ambas as linguagens.
 
+Cada um dos desafios deve ser implementado em um arquivo separado que está nomeado de acordo com o número do problema e a linguagem de implementação (_python_ ou _javascript_)
+
+```bash
+problem1.py
+problem1.js
+problem2.py
+problem2.js
+problem3.py
+problem3.js
+```
+
+Todos esses arquivos se encontram dentro do diretório _problems_.
+
 
 <details>
 <summary><strong>Javascript</strong></summary>
 
+## Preparação do ambiente
+
+**Instalar as dependências**
+
+```bash
+$ npm install
+```
+
+## Rodando os testes
+
+Para executar todos os testes
+
+```bash
+$ npm run test
+```
+
+Para executar os testes relacionados a apenas um dos problemas (_para o problema 1, por exemplo_)
+
+```bash
+$ npm run test problem1
+```
 </details>
 
 <br>
