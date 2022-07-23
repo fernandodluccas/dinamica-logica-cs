@@ -76,7 +76,7 @@ $ python3 -m pytest tests/test_problem1.py
 
 ---
 
-# Entrega dos desafios 📝
+# Entrega dos desafios 👾
 
 Após clonar o repositório, desenvolva as soluções em uma _branch_ com o número do seu grupo. O número do seu grupo é dado pelo número da breakout room em que vocês estão. Exemplos:
 
@@ -96,7 +96,7 @@ Ao final, faça o _push_ com as alterações
 
 <details>
 <br>
-<summary><strong>Problema 1 - Professor Chateado</strong></summary>
+<summary><strong>Problema 1 - Professor chateado</strong></summary>
 
 Um professor universitário está chateado com o atraso das pessoas estudantes de sua aula. Decidiu então adotar a estratégia de não passar dever de casa, condicionado a que o número de pessoas atrasadas seja menor que um valor limite (k), estipulado por ele mesmo para cada diferente tema na aula. Para registrar a frequência das pessoas estudantes, registra em um array (a) a quantidade de minutos que as pessoas chegam antes(-) ou depois(+) dele.  
 
