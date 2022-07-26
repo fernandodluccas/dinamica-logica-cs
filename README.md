@@ -130,27 +130,7 @@ Ao final, faça o _push_ com as alterações
 
 <details>
 <br>
-<summary><strong>Problema 1 - Professor chateado</strong></summary>
-
-Um professor universitário está chateado com o atraso das pessoas estudantes de sua aula. Decidiu então adotar a estratégia de não passar dever de casa, condicionado a que o número de pessoas atrasadas seja menor que um valor limite (k), estipulado por ele mesmo para cada diferente tema na aula. Para registrar a frequência das pessoas estudantes, registra em um array (a) a quantidade de minutos que as pessoas chegam antes(-) ou depois(+) dele.  
-
-Implemente um algoritmo que recebe como parâmetros um array, com o tempo de chegada de cada pessoa estudante em relação ao início da aula, e um número inteiro limite estabelecido pelo professor. O algoritmo deve retornar "SIM" caso ele tenha passado dever de casa e "NÃO" caso contrário.
-
-### Exemplo de entrada:
-```bash
-a = [-2, -1, 0, 1, 2]
-k = 3
-```
-
-### Exemplos de saídas:
-```bash
-"NÃO"
-```
-
-### Explicação
-Os valores -2 e -1 se referem a pessoas estudantes que chegaram 2 minutos e 1 minuto, respectivamente, antes do horário da aula. O valor 0 se refere à uma pessoa que chegou exatamente no horário da aula, portanto, nenhum dos 3 valores representam pessoas que chegaram atrasadas. os valores 1 e 2 se referem a pessoas estudantes que chegaram 1 minuto e 2 minutos depois do horário da aula, assim, pessoas atrasadas.
-
-Como o valor limite espitulado foi 3 e só duas pessoas se atrasaram, o professor não passou dever de casa.
+<summary><strong>Problema 1 </strong></summary>
 
 </details>
 
@@ -159,26 +139,7 @@ Como o valor limite espitulado foi 3 e só duas pessoas se atrasaram, o professo
 
 <details>
 <br>
-<summary><strong>Problema 2 - Pares de meias</strong></summary>
-
-As meias de uma enorme pilha de meias devem ser organizadas em pares de acordo com sua cor. Dado um array com números inteiros que representam meias e suas respectivas cores. 
-
-Implemente um algoritmo que recebe como parâmetro o array de números que representam as cores e retorna a quantidade de pares com mesma cor existem dentro do array.
-
-### Exemplo de entrada:
-```bash
-ar = [10, 20, 20, 10, 10, 30, 50, 10, 20]
-```
-
-### Exemplos de saídas:
-```bash
-3
-```
-
-### Explicação
-É possível formar 3 pares distintos, dois pares de meias relacionadas à cor de número 10 e um par de meias relacionadas à cor de número 20. Todos os demais números do arrays não formam pares.
-
-![alt text](pares-de-meias.png "Formação dos pares de meia - 2 pares de meias 10 e 1 par de meias 20")
+<summary><strong>Problema 2 </strong></summary>
 
 </details>
 
@@ -187,28 +148,7 @@ ar = [10, 20, 20, 10, 10, 30, 50, 10, 20]
 
 <details>
 <br>
-<summary><strong>Problema 3 - Dia da pessoa desenvolvedora</strong></summary>
+<summary><strong>Problema 3 </strong></summary>
 
-O dia da pessoa desenvolvedora é sempre o 256º dia do ano, contudo, sabemos que alguns anos são bissextos, isto é, há o dia 29 de fevereiro.
-
-O ano é considerado bissexto se uma das seguintes condições é seguida:
-
-- O inteiro que representa o ano é divisível por 400;
-- O inteiro que representa o ano é divisível por 4 mas não por 100;
-
-Considerando as informações dadas, implemente um algoritmos que recebe como parâmetro um inteiro representando o ano e retorna a data referente ao dia da pessoa programadora no seguinte formato: DD.MM.AAAA, onde D representa o dia, M representa o mês e A representa o ano.
-
-### Exemplo de entrada:
-```bash
-year = 2016
-```
-
-### Exemplos de saídas:
-```bash
-12.09.2016
-```
-
-### Explicação
-2016 é divisível por 4, portanto, é um ano bissexto. Sendo assim, o 256º dia desse ano será 12 de setembro de 2016.
 
 </details>
