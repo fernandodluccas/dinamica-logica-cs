@@ -14,7 +14,7 @@ Durante este momento será realizada uma dinâmica envolvendo problemas lógicos
 # Programação do momento ⌚
 
 1. Teremos um breve alinhamento ao iniciarmos o momento que não substitui a leitura deste readme;
-2. Serão dividos os grupos de trabalho. Cada grupo terá 3 ou 4 integrantes na equipe;
+2. Serão dividos os grupos de trabalho. Cada grupo terá 6 integrantes na equipe;
 3. Dentro de cada uma das breakouts, as equipes devem solucionar a maior quantidade de desafios que conseguirem dentro do tempo de 30 minutos;
 4. Mais informações sobre os problemas lógicos serão colocados neste repositório no dia da dinâmica;
 5. Todas as pessoas retornarão à sala principal e serão movidas para outras breakouts com o intuito de fazer a apresentação do seu desenvolvimento;
