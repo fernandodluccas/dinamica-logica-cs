@@ -5,7 +5,6 @@ Durante este momento será realizada uma dinâmica envolvendo problemas lógicos
 - Trabalho em equipe;
 - Comunicação;
 - Solução final dos problemas;
-- Solução dos problemas em mais de uma linguagem;
 - Qualidade de código;
 - Preparação e organização para apresentação;
 
