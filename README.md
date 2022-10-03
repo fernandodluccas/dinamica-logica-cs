@@ -1,24 +1,18 @@
 # Boas Vindas ao repositório da dinâmica de lógica 👋
 
-Durante este momento será realizada uma dinâmica envolvendo problemas lógicos, que devem ser solucionados em grupos durante o tempo de 30 minutos. O time de pessoas da Trybe avaliará as pessoas participantes durante a dinâmica e também depois, quando cada um dos grupos apresentarem seus avanços. Os seguintes critérios serão utilizados para avaliação:
+Durante este momento será realizada uma dinâmica envolvendo problemas lógicos, que devem ser solucionados durante o tempo de 40 minutos. O time de pessoas da Trybe avaliará as pessoas participantes durante a dinâmica e também depois, quando forem avaliadas as soluções em cada branch. Os seguintes critérios serão utilizados para avaliação:
 
-- Trabalho em equipe;
-- Comunicação;
 - Solução final dos problemas;
 - Qualidade de código;
-- Preparação e organização para apresentação;
 
 ---
 
 # Programação do momento ⌚
 
 1. Teremos um breve alinhamento ao iniciarmos o momento que não substitui a leitura deste readme;
-2. Serão dividos os grupos de trabalho. Cada grupo terá 6 integrantes na equipe;
-3. Dentro de cada uma das breakouts, as equipes devem solucionar a maior quantidade de desafios que conseguirem dentro do tempo de 30 minutos;
-4. Mais informações sobre os problemas lógicos serão colocados neste repositório no dia da dinâmica;
-5. Todas as pessoas retornarão à sala principal e serão movidas para outras breakouts com o intuito de fazer a apresentação do seu desenvolvimento;
-6. Cada grupo terá aproximadamente 5 minutos para mostrar o código desenvolvido e os testes sendo executados, a pessoa avaliadora poderá fazer perguntas exploratórias sobre o desenvolvimento de cada grupo.
-7. Todos os grupos receberão um feedback relacionado à sua performance (acima da expectativa, dentro da expectativa ou abaixo da expectativa) para cada um dos critérios de avaliação;
+2. Todas as pessoas serão dividas em breakouts; 
+3. Dentro de cada uma das breakouts, devem ser solucionadas a maior quantidade de desafios dentro do tempo de 40 minutos;
+7. Todas as pessoas receberão um feedback relacionado à sua performance (acima da expectativa, dentro da expectativa ou abaixo da expectativa) para os dos critérios de avaliação;
 
 ---
 
