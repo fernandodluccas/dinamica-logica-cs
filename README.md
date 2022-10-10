@@ -2,8 +2,12 @@
 
 Durante este momento será realizada uma dinâmica envolvendo problemas lógicos, que devem ser solucionados durante o tempo de 40 minutos. O time de pessoas da Trybe avaliará as pessoas participantes durante a dinâmica e também depois, quando forem avaliadas as soluções em cada branch. Os seguintes critérios serão utilizados para avaliação:
 
+- Trabalho em equipe;
+- Comunicação;
 - Solução final dos problemas;
+- Solução dos problemas em mais de uma linguagem;
 - Qualidade de código;
+- Preparação e organização para apresentação;
 
 ---
 
